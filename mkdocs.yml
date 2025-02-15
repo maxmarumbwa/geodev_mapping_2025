@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/maxmarumbwa/geodev_mapping_2025/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - geodev_mapping_2025 module: geodev_mapping_2025.md
           - common module: common.md
