@@ -2,7 +2,6 @@
 
 """Tests for `geodev_mapping_2025` package."""
 
-
 import unittest
 
 from geodev_mapping_2025 import geodev_mapping_2025
